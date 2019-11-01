@@ -13,4 +13,4 @@ And for the buid bundle optimization:
  - Gulp, Rollup
  - Buble, Commonjs, Etc.
  - Postcss,Scss Cssnano, Purgecss
- - Htmpmin, Phpserve, Browsersync
+ - Htmlmin, Phpserve, Browsersync
