@@ -1,0 +1,1 @@
+System.register(["./AppFooter-cf9c9e7b.js"],function(){"use strict";var t,n,o;return{setters:[function(e){t=e.V,n=e.A,o=e.a}],execute:function(){new t({el:"#about",components:{AppHeader:n,AppFooter:o}})}}});
